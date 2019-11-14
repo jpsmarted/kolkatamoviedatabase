@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kolkata Movie Database
 
 You can use the [editor on GitHub](https://github.com/jpsmarted/kolkatamoviedatabase/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
